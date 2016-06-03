@@ -1,0 +1,5 @@
+{
+	"url": "http://restchallenge-neoautomation.rhcloud.com/api/v1/users/1",
+	"statusCode": 200,
+	"firstname": "Maria"
+}

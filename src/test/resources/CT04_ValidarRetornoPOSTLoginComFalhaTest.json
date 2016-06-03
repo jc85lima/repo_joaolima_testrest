@@ -1,0 +1,7 @@
+{
+	"url": "http://restchallenge-neoautomation.rhcloud.com/api/v1/login",
+	"statusCode": 401,
+	"user": "administrador",
+	"password": "123",
+	"mensagem":"unauthorized"
+}
